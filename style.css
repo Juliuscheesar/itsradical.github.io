@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*{
+    font-family: 'Oswald', sans-serif;
+}
+.header {
+    font-family: 'Fuzzy Bubbles', cursive;
+    background-color: aqua;
+    color:white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+.nav {
+    font-family: 'Lobster', cursive;
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+li {
+    display: inline;
+}
+ul {
+    text-align: center;
+    padding-top: 100%;
+    background-color: greenyellow;
+    padding: 10px;
+}
+img {
+    width: auto;
+    height: auto;
+}
+button{
+    font-family: 'Fuzzy Bubbles', cursive;
+    color:white;
+    background-color: black;
+}
+.links {
+    text-decoration: none;
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin-left: 20px;
+    margin-right: 20px;
+}
